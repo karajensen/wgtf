@@ -1,4 +1,4 @@
-INCLUDE( WGExternalProject )
+I#NCLUDE( WGExternalProject )
 INCLUDE( FindPackageHandleStandardArgs )
 INCLUDE( ExternalModuleUrls )
 

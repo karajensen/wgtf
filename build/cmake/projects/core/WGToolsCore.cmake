@@ -39,14 +39,12 @@ LIST( APPEND BW_LIBRARY_PROJECTS
 	core_data_model_cmds		core/lib/core_data_model_cmds
 	core_view_model				core/lib/core_view_model
 	core_ui_framework		    core/lib/core_ui_framework
-	core_python27				core/lib/core_python27
 	core_base_editor			core/lib/core_base_editor
 	qt_sharable					core/lib/qt_sharable
 
 	# Interfaces
 	common_include				core/interfaces/common_include
 	editor						core/interfaces/editor
-	core_python_script			core/interfaces/core_python_script
 	core_script					core/interfaces/core_script
 	core_splash					core/interfaces/core_splash
 	version_control				core/interfaces/version_control
@@ -88,7 +86,6 @@ LIST( APPEND BW_PLUGIN_PROJECTS
 	plg_perforce				core/plugins/plg_perforce
 	plg_panel_manager			core/plugins/plg_panel_manager
 	plg_progress_manager		core/plugins/plg_progress_manager
-	plg_python27				core/plugins/plg_python27
 	plg_curve_editor			core/plugins/plg_curve_editor
 	plg_node_editor				core/plugins/plg_node_editor
 	plg_custom_ui_themes		core/plugins/plg_custom_ui_themes

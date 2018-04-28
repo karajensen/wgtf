@@ -4,5 +4,3 @@ plugins/plg_file_system
 plugins/plg_environment_system
 plugins/plg_command_system
 plugins/plg_qt_common
-plugins/plg_python27_unit_test
-
